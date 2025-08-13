@@ -52,13 +52,9 @@ Aprimorar conhecimentos em análise de dados, manipulação e tratamento dos dad
 <img width="1596" height="873" alt="image" src="https://github.com/user-attachments/assets/065b0986-7c42-47a7-9218-667c2c0ce212" />
 
 --------
- IDE Utilizada -> Google COLAB
+<img width="37" height="24" alt="image" src="https://github.com/user-attachments/assets/42d2e2e7-63a9-4456-8b3a-d94b4020ca2a" /> IDE Utilizada para o desenvolvimento → Google Colab - 
+
 <img width="977" height="491" alt="image" src="https://github.com/user-attachments/assets/83e7ebff-49bc-431a-8aad-8fbfcfcdc1f3" />
-
-
-
-
-
 
 
 ---------
